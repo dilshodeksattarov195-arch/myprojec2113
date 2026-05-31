@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsncrypt",
+        "uuid": 12441344,
+        "checksum": "zh762i"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
